@@ -1,4 +1,8 @@
-# Algorithms & data structures coursework
+# Algorithms & data structures
+
+> **Coursework** · C++ and Python assignments
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
 
 Historical C++ and Python assignments, including linked lists, stacks, trees and sorting exercises.
 
