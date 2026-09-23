@@ -2,7 +2,7 @@
 
 > **Coursework** · C++ and Python assignments
 >
-> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+> [Selected projects](https://github.com/BadrEss01/BadrEss01#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
 
 Historical C++ and Python assignments, including linked lists, stacks, trees and sorting exercises.
 
@@ -18,4 +18,4 @@ C++ assignments need a C++ compiler; Python exercises need a compatible Python i
 
 The exercises have not all been rebuilt or behavior-tested during the portfolio organization pass. This repository represents coursework rather than a single supported application.
 
-[Portfolio](https://github.com/BadrEss01/BadrEss) · [Coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+[Portfolio](https://github.com/BadrEss01/BadrEss01) · [Coursework index](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
